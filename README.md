@@ -1,4 +1,4 @@
-# Data_Visualization_Project
+# Exploratory Data Analysis and Data Visualization Project
 
 - [x] Recap Covid-19 Situation in Thailand
   - [x] [VDO](https://github.com/Namwaa/Data_Visualization_Project/blob/main/Recap_Covid19.mp4)
